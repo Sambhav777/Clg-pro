@@ -1,2 +1,4 @@
 # Clg-pro
-11th clg project
+11th collage project
+
+COPYRIGHT 2022
